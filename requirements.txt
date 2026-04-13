@@ -2,5 +2,5 @@
 # Install with:  pip install -r requirements.txt
 
 ultralytics>=8.3.0     # YOLOv11 + ByteTrack tracker
-opencv-python>=4.9.0   # Video I/O, drawing, display
+opencv-python-headless   # Video I/O, drawing, display
 numpy>=1.26.0          # Array math
